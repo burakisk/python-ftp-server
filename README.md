@@ -39,4 +39,4 @@ $ python client.py
 ### other features 
 - <p>You can download the name a files by pressing the download button </p>
 - <p>You can remove the files by pressing the remove file button </p>
-- <p>You can remove the files by pressing the remove directory button </p>
+- <p>You can remove the <b>empty</b> directory by pressing the remove directory button </p>
