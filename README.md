@@ -16,7 +16,7 @@ now you can start the client
 ```
 $ python client.py
 ```
-<p>you will see the login screen after the start command </p>
+<p>you will see the login screen after the above command </p>
 
 ![LoginDialog](ss/loginDialog_ss.png?raw=true)
 
