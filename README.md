@@ -33,10 +33,10 @@ $ python client.py
 
 ![uploadFile](ss/uploadMultiFile_ss.png?raw=true)
 
-- <p>You can change the name of the remove files or directories by pressing the rename button </p>
+- <p>You can change the name of the files or directories by pressing the rename button </p>
 ![renameFileName](ss/rename_ss.png?raw=true)
 
 ### other features 
-- <p>You can download the name a files by pressing the download button </p>
+- <p>You can download the files by pressing the download button </p>
 - <p>You can remove the files by pressing the remove file button </p>
 - <p>You can remove the <b>empty</b> directory by pressing the remove directory button </p>
