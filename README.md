@@ -12,7 +12,7 @@ Enter the following code at the command line to start the server
 ```
 $ python server.py
 ```
-now you can start the client 
+now you can start the client app
 ```
 $ python client.py
 ```
@@ -28,15 +28,15 @@ $ python client.py
 
 ### Properties
 
-- <p>you can upload many files at the same time</p>
-- <p>You can navigate on remote using the back and forward buttons</p>
+- <p>Users can upload many files at the same time</p>
+- <p>Users can navigate on remote using the back and forward buttons</p>
 
 ![uploadFile](ss/uploadMultiFile_ss.png?raw=true)
 
-- <p>You can change the name of the files or directories by pressing the rename button </p>
+- <p>Users can change the name of the files or directories by pressing the rename button </p>
 ![renameFileName](ss/rename_ss.png?raw=true)
 
 ### other features 
-- <p>You can download the files by pressing the download button </p>
-- <p>You can remove the files by pressing the remove file button </p>
-- <p>You can remove the <b>empty</b> directory by pressing the remove directory button </p>
+- <p>Users can download the files by pressing the download button </p>
+- <p>Users can remove the files by pressing the remove file button </p>
+- <p>Users can remove the <b>empty</b> directory by pressing the remove directory button </p>
